@@ -3,7 +3,7 @@ title: TermoBlog
 email: dolceymendozajr@gmail.com
 description: Some text about your blog.
 baseurl: "/ExpoFisica" # the subpath of your site, e.g. /blog
-url: "dolceymendozajr.github.io" # the base hostname & protocol for your site
+url: "https://dolceymendozajr.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
