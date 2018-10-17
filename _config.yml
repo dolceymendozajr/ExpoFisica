@@ -1,15 +1,15 @@
 # Site Settings
 title: TermoBlog
 email: dolceymendozajr@gmail.com
-description: Some text about your blog.
+description: Blog de termodinámica para ExpoFisica.
 baseurl: "/ExpoFisica" # the subpath of your site, e.g. /blog
 url: "https://dolceymendozajr.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Dolcey Mendoza Anaya
+user_description: Programador.
+disqus_username: dolceymendoza
 
 # Social Media
 # Remove the item if you don't need it
