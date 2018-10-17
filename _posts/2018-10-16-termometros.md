@@ -2,7 +2,7 @@
 layout: post
 title: "¿Cómo funcionan los termometros?"
 description: Un instrumento no tan simple como parece
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
+image: 'https://images-na.ssl-images-amazon.com/images/I/21HVlwmptyL.jpg'
 category: 'blog'
 tags:
 - termometros

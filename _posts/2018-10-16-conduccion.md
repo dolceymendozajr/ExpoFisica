@@ -2,7 +2,7 @@
 layout: post
 title: "Conducción"
 description: ¿Cómo se transfiere energia sin tener contacto directo con el elemento caliente?
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807658/barney-stinson_eqt7kc.jpg'
+image: 'https://usateatsiptrip.files.wordpress.com/2018/03/gettyimages-887636042.jpg?w=1000&h=600&crop=1'
 category: 'blog'
 tags:
 - conduccion

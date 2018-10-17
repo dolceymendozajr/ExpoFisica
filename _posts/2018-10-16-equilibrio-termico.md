@@ -2,7 +2,7 @@
 layout: post
 title: "Equilibrio termico"
 description: ¿Cómo hacen dos objetos para alcanzar una misma temperatura?
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504809708/django_g7djdj.jpg'
+image: 'https://www.definicionabc.com/wp-content/uploads/economia/Punto-Equilibrio.jpg'
 category: 'blog'
 tags:
 - equilibrio termico

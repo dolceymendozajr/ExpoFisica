@@ -2,7 +2,7 @@
 layout: post
 title: "Temperatura"
 description: ¿Cómo hacen dos objetos para alcanzar una misma temperatura?
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504810464/hello-world-vue_ibatoy.jpg'
+image: 'https://images.unsplash.com/photo-1485504750689-aa2121ffe6c6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1c6d75074fbbb55b2e8f703f658a26be&auto=format&fit=crop&w=1083&q=80'
 category: 'blog'
 tags:
 - temperatura
