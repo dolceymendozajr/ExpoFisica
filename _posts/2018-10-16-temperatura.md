@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Temperatura"
-description: ¿Cómo hacen dos objetos para alcanzar una misma temperatura?
+description: ¿Qué es la temperatura? ¿En qué se diferencia con el calor y el frio?
 image: 'https://images.unsplash.com/photo-1485504750689-aa2121ffe6c6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1c6d75074fbbb55b2e8f703f658a26be&auto=format&fit=crop&w=1083&q=80'
 category: 'blog'
 tags:
 - temperatura
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: ¿Qué es la temperatura? ¿En qué se diferencia con el calor y el frio?
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
